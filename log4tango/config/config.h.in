@@ -1,0 +1,5 @@
+/* Define to 1 if you have the <io.h> header file. */
+#cmakedefine LOG4TANGO_HAVE_IO_H
+
+/* Define to 1 if you have the <unistd.h> header file. */
+#cmakedefine LOG4TANGO_HAVE_UNISTD_H
